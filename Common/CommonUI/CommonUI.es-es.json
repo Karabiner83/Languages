@@ -1,0 +1,194 @@
+[
+  {
+    "Identifier": "Button_Roger",
+    "Text": "ENTENDIDO"
+  },
+  {
+    "Identifier": "Button_Deny",
+    "Text": "DENEGAR"
+  },
+  {
+    "Identifier": "Button_OK",
+    "Text": "OK"
+  },
+  {
+    "Identifier": "MissionObjectives_Title",
+    "Text": "OBJETIVO ACTUAL"
+  },
+  {
+    "Identifier": "Loading_PrepareCockpitState",
+    "Text": "[ PREPARANDO EL ESTADO DE LA CABINA ]"
+  },
+  {
+    "Identifier": "ViewSelector_Title",
+    "Text": "[V] SELECTOR DE VISTA"
+  },
+  {
+    "Identifier": "ViewSelector_External",
+    "Text": "EXTERNA"
+  },
+  {
+    "Identifier": "ViewSelector_Orbital",
+    "Text": "ORBITAL"
+  },
+  {
+    "Identifier": "ViewSelector_MissionPad",
+    "Text": "PANEL DE MISIÓN"
+  },
+  {
+    "Identifier": "InGameMenu_Title",
+    "Text": "MENÚ"
+  },
+  {
+    "Identifier": "InGameMenu_ResumeSession",
+    "Text": "CONTINUAR SESIÓN"
+  },
+  {
+    "Identifier": "InGameMenu_Failures",
+    "Text": "AVERÍAS"
+  },
+  {
+    "Identifier": "InGameMenu_Audio",
+    "Text": "AUDIO"
+  },
+  {
+    "Identifier": "InGameMenu_InputControls",
+    "Text": "CONTROLES DE ENTRADA"
+  },
+  {
+    "Identifier": "InGameMenu_SaveState",
+    "Text": "GUARDAR PARTIDA"
+  },
+  {
+    "Identifier": "InGameMenu_MissionControlLive",
+    "Text": "CONTROL DE MISIÓN\r EN VIVO"
+  },
+  {
+    "Identifier": "InGameMenu_Console",
+    "Text": "CONSOLA"
+  },
+  {
+    "Identifier": "InGameMenu_MissionEditor",
+    "Text": "EDITOR DE MISIONES"
+  },
+  {
+    "Identifier": "InGameMenu_EndSession",
+    "Text": "FINALIZAR SESIÓN"
+  },
+  {
+    "Identifier": "InGameMenu_Graphics",
+    "Text": "GRÁFICOS"
+  },
+  {
+    "Identifier": "InGameMenu_CreateChecklist",
+    "Text": "CREAR LISTA DE COMPROBACIÓN"
+  },
+  {
+    "Identifier": "CommTools_Title",
+    "Text": "[C] OMUNICACIONES"
+  },
+  {
+    "Identifier": "CommTools_RequestRadioCheck",
+    "Text": "COMPROBACIÓN DE RADIO"
+  },
+  {
+    "Identifier": "MissionPad_Mission",
+    "Text": "MISIÓN"
+  },
+  {
+    "Identifier": "MissionPad_Briefing",
+    "Text": "INSTRUCCIONES"
+  },
+  {
+    "Identifier": "MissionPad_Map",
+    "Text": "MAPA"
+  },
+  {
+    "Identifier": "MissionPad_Checklists",
+    "Text": "LISTA DE COMPROBACIÓN"
+  },
+  {
+    "Identifier": "MissionPad_Transcript",
+    "Text": "TRANSCRIPCIÓN"
+  },
+  {
+    "Identifier": "MissionPad_Notes",
+    "Text": "NOTAS"
+  },
+  {
+    "Identifier": "AudioMenu_Title",
+    "Text": "AJUSTES DE AUDIO"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Master",
+    "Text": "Master"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Cockpit",
+    "Text": "Cabina"
+  },
+  {
+    "Identifier": "AudioMenu_Track_External",
+    "Text": "Externo"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Music",
+    "Text": "Música"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Misc",
+    "Text": "SFX Misceláneos"
+  },
+  {
+    "Identifier": "AudioMenu_Track_AstroComm",
+    "Text": "Comuniaciones\r\r\r\r\r\nAstronauta"
+  },
+  {
+    "Identifier": "AudioMenu_Track_MCC",
+    "Text": "Comuniaciones de control de misión"
+  },
+  {
+    "Identifier": "SaveState_Title",
+    "Text": "GUARDAR PARTIDA"
+  },
+  {
+    "Identifier": "SaveState_Body",
+    "Text": "Hace poco que empezé a implementar las rutinas de guardado y cargado de partidas. Actualmente este sistema es muy básico y en su mayoría guardará los vectores de estado de la nave espacial, los elementos físicos, y el estado del panel de la cabina.\r\r\r\r\r\r\r\r\r\n\r\r\r\r\r\r\r\r\r\nIntentaré mantener los archivos de guardado compatibles con versiones anteriores, pero porfavor, espere cambios que puedan romper sus partidas guardadas. Este sistema aun no esta completamente terminado."
+  },
+  {
+    "Identifier": "SaveState_Error",
+    "Text": "Advertencia: No es posible guardar en este momento. La opcion de guardar estará desabilitada durante maniobras motorizadas o fases críticas de la misión."
+  },
+  {
+    "Identifier": "SaveState_ButtonSave",
+    "Text": "GUARDAR"
+  },
+  {
+    "Identifier": "Button_Close",
+    "Text": "CERRAR"
+  },
+  {
+    "Identifier": "SaveState_SaveStateName",
+    "Text": "Nombre del archivo de guardado: "
+  },
+  {
+    "Identifier": "SaveState_SaveStateWarning",
+    "Text": "¿Sobreescribir?"
+  },
+  {
+    "Identifier": "Button_ClearAll",
+    "Text": "BORRAR TODO"
+  },
+  {
+    "Identifier": "Button_Clear",
+    "Text": "BORRAR"
+  },
+  {
+    "Identifier": "Settings_UIScale",
+    "Text": "Escala de la IU"
+  },
+  {
+    "Identifier": "Settings_UIScaleDesc",
+    "Text": "El factor de escala de la interfaz del usuario."
+  }
+]

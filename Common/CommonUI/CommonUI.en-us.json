@@ -1,0 +1,386 @@
+[
+  {
+    "Identifier": "Button_Roger",
+    "Text": "ROGER"
+  },
+  {
+    "Identifier": "Button_Deny",
+    "Text": "DENY"
+  },
+  {
+    "Identifier": "Button_OK",
+    "Text": "OK"
+  },
+  {
+    "Identifier": "MissionObjectives_Title",
+    "Text": "CURRENT OBJECTIVE"
+  },
+  {
+    "Identifier": "Loading_PrepareCockpitState",
+    "Text": "[ PREPARING COCKPIT STATE ]"
+  },
+  {
+    "Identifier": "ViewSelector_Title",
+    "Text": "[V] I E W   S E L E C T O R"
+  },
+  {
+    "Identifier": "ViewSelector_External",
+    "Text": "EXTERNAL"
+  },
+  {
+    "Identifier": "ViewSelector_Orbital",
+    "Text": "ORBITAL"
+  },
+  {
+    "Identifier": "ViewSelector_MissionPad",
+    "Text": "MISSION PAD"
+  },
+  {
+    "Identifier": "InGameMenu_Title",
+    "Text": "MENU"
+  },
+  {
+    "Identifier": "InGameMenu_ResumeSession",
+    "Text": "RESUME SESSION"
+  },
+  {
+    "Identifier": "InGameMenu_Failures",
+    "Text": "FAILURES"
+  },{
+    "Identifier": "InGameMenu_Audio",
+    "Text": "AUDIO"
+  },
+  {
+    "Identifier": "InGameMenu_InputControls",
+    "Text": "INPUT CONTROLS"
+  },
+  {
+    "Identifier": "InGameMenu_SaveState",
+    "Text": "SAVE STATE"
+  },
+  {
+    "Identifier": "InGameMenu_MissionControlLive",
+    "Text": "MISSION CONTROL LIVE"
+  },
+  {
+    "Identifier": "InGameMenu_Console",
+    "Text": "CONSOLE"
+  },
+  {
+    "Identifier": "InGameMenu_MissionEditor",
+    "Text": "MISSION EDITOR"
+  },
+  {
+    "Identifier": "InGameMenu_EndSession",
+    "Text": "END SESSION"
+  },
+  {
+    "Identifier": "InGameMenu_Graphics",
+    "Text": "GRAPHICS"
+  },
+  {
+    "Identifier": "InGameMenu_CreateChecklist",
+    "Text": "CREATE CHECKLIST"
+  },
+  {
+    "Identifier": "CommTools_Title",
+    "Text": "[C] O M M U N I C A T I O N"
+  },
+  {
+    "Identifier": "CommTools_RequestRadioCheck",
+    "Text": "RADIO CHECK"
+  },
+  {
+    "Identifier": "MissionPad_Mission",
+    "Text": "MISSION"
+  },
+  {
+    "Identifier": "MissionPad_Briefing",
+    "Text": "BRIEFING"
+  },
+  {
+    "Identifier": "MissionPad_Map",
+    "Text": "MAP"
+  },
+  {
+    "Identifier": "MissionPad_Checklists",
+    "Text": "CHECKLISTS"
+  },
+  {
+    "Identifier": "MissionPad_Transcript",
+    "Text": "TRANSCRIPT"
+  },
+  {
+    "Identifier": "MissionPad_Notes",
+    "Text": "NOTES"
+  },
+  {
+    "Identifier": "MissionPad_VR",
+    "Text": "VR"
+  },
+  {
+    "Identifier": "AudioMenu_Title",
+    "Text": "AUDIO SETTINGS"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Master",
+    "Text": "Master"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Cockpit",
+    "Text": "Cockpit"
+  },
+  {
+    "Identifier": "AudioMenu_Track_External",
+    "Text": "External"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Music",
+    "Text": "Music"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Misc",
+    "Text": "Misc SFX"
+  },
+  {
+    "Identifier": "AudioMenu_Track_AstroComm",
+    "Text": "Astronaut\nComm"
+  },
+  {
+    "Identifier": "AudioMenu_Track_MCC",
+    "Text": "Mission Control Comm"
+  },
+  {
+    "Identifier": "SaveState_Title",
+    "Text": "SAVE STATE"
+  },
+  {
+    "Identifier": "SaveState_Body",
+    "Text": "This will save your current progress into a save state.\n\nEnter a filename below and press SAVE.\n\nNote: Most core states, orbital parameters, and system data within the 1.0 scope are saved. Save States will continue to evolve and improve as the game moves toward 2.0 and as systems are further developed."
+  },
+  {
+    "Identifier": "SaveState_Error",
+    "Text": "Warning: It's not possible to save right now. Save State is disabled during powered maneuvers or critical mission phases."
+  },
+  {
+    "Identifier": "SaveState_ButtonSave",
+    "Text": "SAVE"
+  },
+  {
+    "Identifier": "Button_Close",
+    "Text": "CLOSE"
+  },
+  {
+    "Identifier": "SaveState_SaveStateName",
+    "Text": "Save State Name:"
+  },
+  {
+    "Identifier": "SaveState_SaveStateWarning",
+    "Text": "Overwrite?"
+  },
+  {
+    "Identifier": "Button_ClearAll",
+    "Text": "CLEAR ALL"
+  },
+  {
+    "Identifier": "Button_Clear",
+    "Text": "CLEAR"
+  },
+  {
+    "Identifier": "Settings_UIScale",
+    "Text": "UI Scale"
+  },
+  {
+    "Identifier": "Settings_UIScaleDesc",
+    "Text": "The scale factor of the User Interface."
+  },
+  {
+    "Identifier": "Debrief_End",
+    "Text": "END MISSION"
+  },
+  {
+    "Identifier": "Debrief_Resume",
+    "Text": "RESUME MISSION"
+  },
+  {
+    "Identifier": "Debrief_Reload",
+    "Text": "RELOAD MISSION"
+  },
+  {
+    "Identifier": "MissionPad_RunChecklist",
+    "Text": "RUN:"
+  },
+  {
+    "Identifier": "MissionPad_CloseChecklist",
+    "Text": "< BACK"
+  },
+  {
+    "Identifier": "MissionPad_EditChecklist",
+    "Text": "EDIT"
+  },
+  {
+    "Identifier": "Debrief_Title",
+    "Text": "MISSION DEBRIEF"
+  },
+  {
+    "Identifier": "Debrief_Goals",
+    "Text": "GOALS"
+  },
+  {
+    "Identifier": "Debrief_Accomplished",
+    "Text": "MISSION ACCOMPLISHED"
+  },
+  {
+    "Identifier": "Debrief_NotAccomplished",
+    "Text": "MISSION NOT COMPLETED"
+  },
+  {
+    "Identifier": "Debrief_KeyMoments",
+    "Text": "KEY MOMENTS"
+  },
+  {
+    "Identifier": "LoadingPanelState",
+    "Text": "LOADING PANEL STATE"
+  },
+  {
+    "Identifier": "TimeToLaunch",
+    "Text": "Time to launch T"
+  },
+  {
+    "Identifier": "TimeScale",
+    "Text": "Time scale"
+  },
+  {
+    "Identifier": "Paused",
+    "Text": "PAUSED"
+  },
+  {
+    "Identifier": "ViewSelector_Photocamera",
+    "Text": "PHOTOCAMERA"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxVel",
+    "Text": "MAX VEL"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxAlt",
+    "Text": "MAX ALT"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxGs",
+    "Text": "MAX Gs"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentAltitude",
+    "Text": "Ascent Altitude"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption",
+    "Text": "Fuel Consumption"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Splashdown",
+    "Text": "Splashdown"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Abort",
+    "Text": "Abort"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_InsertionData",
+    "Text": "Insertion ({0} nmi x {1} nmi, {2}° inc)"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Ignition",
+    "Text": "Ignition"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun",
+    "Text": "Fun"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo1",
+    "Text": "Photograph: photo1.png"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo2",
+    "Text": "Photograph: photo2.png"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo3",
+    "Text": "Photograph: photo3.png"
+  },
+  {
+    "Identifier": "CrewMembers_ToggleAllCockpitEq",
+    "Text": "HIDE ALL"
+  },
+  {
+    "Identifier": "CrewMembers_TogglePADs",
+    "Text": "IN-COCKPIT PAD"
+  },
+  {
+    "Identifier": "SlowMode",
+    "Text": "SLOW MODE"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Title",
+    "Text": "RETROBURN PLANNER"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Hours",
+    "Text": "HOURS"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Minutes",
+    "Text": "MINUTES"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Seconds",
+    "Text": "SECONDS"
+  },
+  {
+    "Identifier": "RetroburnPlanner_EstimatedLandingLocation",
+    "Text": "ESTIMATED LANDING LOCATION"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Lat",
+    "Text": "LAT"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Long",
+    "Text": "LONG"
+  },
+  {
+    "Identifier": "SaveState_Body_Limitation_Gemini",
+    "Text": "\nLimitations (1.0):\n-Saving state between a planned burn and executing it. When requesting a planned burn, complete the burn before saving, or else the burn will need to be re-planned."
+  },
+  {
+    "Identifier": "SaveState_Body_Limitation_Apollo",
+    "Text": "\nLimitations (1.0):\n-Saving state between a planned burn and executing it. When requesting a planned burn, complete the burn before saving, or else the burn will need to be re-planned.\n-Saving state between an executed TEI burn, and Earth SOI."
+  },
+  {
+    "Identifier": "Debrief_Failure",
+    "Text": "Failure: "
+  },
+  {
+    "Identifier": "MissionPad_DragToReposition",
+    "Text": "DRAG TO REPOSITION"
+  },
+  {
+    "Identifier": "MissionPad_DragToRepositionVertical",
+    "Text": "D\nR\nA\nG\n \nT\nO\n \nR\nE\nP\nO\nS\nI\nT\nI\nO\nN"
+  },
+  {
+    "Identifier": "VR_ToggleCurrentObjective",
+    "Text": "TOGGLE CURRENT OBJECTIVE"
+  },
+  {
+    "Identifier": "VR_TriggerAbort",
+    "Text": "ABORT"
+  },
+  {
+    "Identifier": "VR_ToggleMissionPad",
+    "Text": "TOGGLE MISSION PAD"
+  }
+  
+]

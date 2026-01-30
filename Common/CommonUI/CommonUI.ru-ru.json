@@ -1,0 +1,354 @@
+[
+  {
+    "Identifier": "Button_Roger",
+    "Text": "ПРИНЯТО"
+  },
+  {
+    "Identifier": "Button_Deny",
+    "Text": "ОТМЕНА"
+  },
+  {
+    "Identifier": "Button_OK",
+    "Text": "OK"
+  },
+  {
+    "Identifier": "MissionObjectives_Title",
+    "Text": "ТЕКУЩАЯ ЦЕЛЬ"
+  },
+  {
+    "Identifier": "Loading_PrepareCockpitState",
+    "Text": "[ ПОДГОТОВКА СОСТОЯНИЯ КАБИНЫ ]"
+  },
+  {
+    "Identifier": "ViewSelector_Title",
+    "Text": "[V] РЕЖИМ ОБЗОРА"
+  },
+  {
+    "Identifier": "ViewSelector_External",
+    "Text": "ВНЕШНИЙ ОБЗОР"
+  },
+  {
+    "Identifier": "ViewSelector_Orbital",
+    "Text": "ОРБИТА\rЛЬНЫЙ ОБЗОР"
+  },
+  {
+    "Identifier": "ViewSelector_MissionPad",
+    "Text": "ПЛАНШЕТ"
+  },
+  {
+    "Identifier": "InGameMenu_Title",
+    "Text": "МЕНЮ"
+  },
+  {
+    "Identifier": "InGameMenu_ResumeSession",
+    "Text": "ПРОДОЛЖИТЬ СЕССИЮ"
+  },
+  {
+    "Identifier": "InGameMenu_Failures",
+    "Text": "ОТКАЗЫ СИСТЕМ"
+  },
+  {
+    "Identifier": "InGameMenu_Audio",
+    "Text": "ЗВУК"
+  },
+  {
+    "Identifier": "InGameMenu_InputControls",
+    "Text": "УПРАВЛЕНИЕ"
+  },
+  {
+    "Identifier": "InGameMenu_SaveState",
+    "Text": "СОХРАНИТЬ СОСТОЯНИЕ"
+  },
+  {
+    "Identifier": "InGameMenu_MissionControlLive",
+    "Text": "ПОДКЛЮЧЕНИЕ СЕТЕВОГО ЦУП"
+  },
+  {
+    "Identifier": "InGameMenu_Console",
+    "Text": "КОНСОЛЬ"
+  },
+  {
+    "Identifier": "InGameMenu_MissionEditor",
+    "Text": "РЕДАКТОР МИССИЙ"
+  },
+  {
+    "Identifier": "InGameMenu_EndSession",
+    "Text": "ЗАКОНЧИТЬ СЕССИЮ"
+  },
+  {
+    "Identifier": "InGameMenu_Graphics",
+    "Text": "ГРАФИКА"
+  },
+  {
+    "Identifier": "InGameMenu_CreateChecklist",
+    "Text": "СОЗДАТЬ ЧЕКЛИСТ"
+  },
+  {
+    "Identifier": "CommTools_Title",
+    "Text": "[C] В Я З Ь"
+  },
+  {
+    "Identifier": "CommTools_RequestRadioCheck",
+    "Text": "ПРОВЕРКА СВЯЗИ"
+  },
+  {
+    "Identifier": "MissionPad_Mission",
+    "Text": "МИССИЯ"
+  },
+  {
+    "Identifier": "MissionPad_Briefing",
+    "Text": "БРИФИНГ"
+  },
+  {
+    "Identifier": "MissionPad_Map",
+    "Text": "КАРТА"
+  },
+  {
+    "Identifier": "MissionPad_Checklists",
+    "Text": "ЧЕКЛИСТЫ"
+  },
+  {
+    "Identifier": "MissionPad_Transcript",
+    "Text": "ПЕРЕГОВОРЫ"
+  },
+  {
+    "Identifier": "MissionPad_Notes",
+    "Text": "ЗАМЕТКИ"
+  },
+  {
+    "Identifier": "AudioMenu_Title",
+    "Text": "АУДИО НАСТРОЙКИ"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Master",
+    "Text": "Главный"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Cockpit",
+    "Text": "Кабина"
+  },
+  {
+    "Identifier": "AudioMenu_Track_External",
+    "Text": "Внешний"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Music",
+    "Text": "Музыка"
+  },
+  {
+    "Identifier": "AudioMenu_Track_Misc",
+    "Text": "Дополнительные звуки"
+  },
+  {
+    "Identifier": "AudioMenu_Track_AstroComm",
+    "Text": "Связь\nАстронавтов"
+  },
+  {
+    "Identifier": "AudioMenu_Track_MCC",
+    "Text": "Связь Центра Управления"
+  },
+  {
+    "Identifier": "SaveState_Title",
+    "Text": "СОХРАНИТЬ СОСТОЯНИЕ"
+  },
+  {
+    "Identifier": "SaveState_Body",
+    "Text": "Недавно я начал работать над системой сохранения и загрузки состояний. Пока она в очень примитивном состоянии и в основном сохраняет векторы движения кораблей и небесных тел, а также состояние панелей кораблей.\n\nЯ постараюсь сделать так, чтобы между сохранениями оставалась обратная совместимость, но учитывайте, что из-за идущего процесса разработки сохранения могут ломаться."
+  },
+  {
+    "Identifier": "SaveState_Error",
+    "Text": "Внимание: на данный момент сохраняться нельзя. Сохранение отключено в критические моменты миссий, такие как зажигание двигателей и переход между фазами."
+  },
+  {
+    "Identifier": "SaveState_ButtonSave",
+    "Text": "СОХРАНИТЬ"
+  },
+  {
+    "Identifier": "Button_Close",
+    "Text": "ЗАКРЫТЬ"
+  },
+  {
+    "Identifier": "SaveState_SaveStateName",
+    "Text": "Название Сохраненного Состояния:"
+  },
+  {
+    "Identifier": "SaveState_SaveStateWarning",
+    "Text": "Перезаписать?"
+  },
+  {
+    "Identifier": "Button_ClearAll",
+    "Text": "ОЧИСТИТЬ ВСЁ"
+  },
+  {
+    "Identifier": "Button_Clear",
+    "Text": "ОЧИСТИТЬ"
+  },
+  {
+    "Identifier": "Settings_UIScale",
+    "Text": "Размер Интерфейса"
+  },
+  {
+    "Identifier": "Settings_UIScaleDesc",
+    "Text": "Регулирует размер пользовательского интерфейса."
+  },
+  {
+    "Identifier": "Debrief_End",
+    "Text": "ЗАКОНЧИТЬ МИССИЮ"
+  },
+  {
+    "Identifier": "Debrief_Resume",
+    "Text": "ПРОДОЛЖИТЬ МИССИЮ"
+  },
+  {
+    "Identifier": "Debrief_Reload",
+    "Text": "ПЕРЕЗАПУСТИТЬ МИССИЮ"
+  },
+  {
+    "Identifier": "MissionPad_VR",
+    "Text": "VR"
+  },
+  {
+    "Identifier": "MissionPad_RunChecklist",
+    "Text": "ПУСК:"
+  },
+  {
+    "Identifier": "MissionPad_CloseChecklist",
+    "Text": "< НАЗАД"
+  },
+  {
+    "Identifier": "MissionPad_EditChecklist",
+    "Text": "ИЗМЕНИТЬ"
+  },
+  {
+    "Identifier": "Debrief_Title",
+    "Text": "РАЗБОР ПОЛЁТОВ"
+  },
+  {
+    "Identifier": "Debrief_Goals",
+    "Text": "ЗАДАЧИ"
+  },
+  {
+    "Identifier": "Debrief_Accomplished",
+    "Text": "МИССИЯ ВЫПОЛНЕНА"
+  },
+  {
+    "Identifier": "Debrief_NotAccomplished",
+    "Text": "МИССИЯ НЕ ВЫПОЛНЕНА"
+  },
+  {
+    "Identifier": "Debrief_KeyMoments",
+    "Text": "КЛЮЧЕВЫЕ МОМЕНТЫ"
+  },
+  {
+    "Identifier": "LoadingPanelState",
+    "Text": "ЗАГРУЗКА СОСТОЯНИЯ ПАНЕЛЕЙ"
+  },
+  {
+    "Identifier": "TimeToLaunch",
+    "Text": "Время до старта T"
+  },
+  {
+    "Identifier": "TimeScale",
+    "Text": "Ускорение времени"
+  },
+  {
+    "Identifier": "Paused",
+    "Text": "ВРЕМЯ ОСТАНОВЛЕНО"
+  },
+  {
+    "Identifier": "ViewSelector_Photocamera",
+    "Text": "ФОТОКАМЕРА"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxVel",
+    "Text": "МАКС СКОРОСТЬ"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxAlt",
+    "Text": "МАКС ВЫСОТА"
+  },
+  {
+    "Identifier": "Debrief_KPI_MaxGs",
+    "Text": "МАКС Gs"
+  },
+  {
+    "Identifier": "Debrief_KPI_AscentAltitude",
+    "Text": "Высота Набора"
+  },
+  {
+    "Identifier": "Debrief_KPI_FuelConsumption",
+    "Text": "Расход Топлива"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Splashdown",
+    "Text": "Посадка"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Abort",
+    "Text": "Отмена"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_InsertionData",
+    "Text": "Выход на орбиту ({0} миль x {1} миль, {2}° наклонение)"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_Ignition",
+    "Text": "Зажигание"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun",
+    "Text": "Смишнявки"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo1",
+    "Text": "Фотография: photo1.png"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo2",
+    "Text": "Фотография: photo2.png"
+  },
+  {
+    "Identifier": "CrewMembers_Cockpit_Fun_Photo3",
+    "Text": "Фотография: photo3.png"
+  },
+  {
+    "Identifier": "CrewMembers_ToggleAllCockpitEq",
+    "Text": "СКРЫТЬ ВСЕ"
+  },
+  {
+    "Identifier": "CrewMembers_TogglePADs",
+    "Text": "ПОКАЗАТЬ ПАД В КАБИНЕ"
+  },
+  {
+    "Identifier": "SlowMode",
+    "Text": "РЕЖИМ ЗАМЕДЛЕНИЯ"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Title",
+    "Text": "ПЛАНИРОВЩИК ТОРМОЖЕНИЯ"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Hours",
+    "Text": "ЧАСЫ"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Minutes",
+    "Text": "МИНУТЫ"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Seconds",
+    "Text": "СЕКУНДЫ"
+  },
+  {
+    "Identifier": "RetroburnPlanner_EstimatedLandingLocation",
+    "Text": "МЕСТО ПОСАДКИ"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Lat",
+    "Text": "ШИРОТА"
+  },
+  {
+    "Identifier": "RetroburnPlanner_Long",
+    "Text": "ДОЛГОТА"
+  }
+]
