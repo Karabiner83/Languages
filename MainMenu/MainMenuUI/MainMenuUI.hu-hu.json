@@ -1357,7 +1357,7 @@
   },
   {
     "Identifier": "LoadingScreen_LoadsInto_Failures_No",
-    "Text": "Nem"
+    "Text": "Nincs"
   },
   {
     "Identifier": "LoadingScreen_LoadsInto_Failures_Yes",

@@ -161,7 +161,7 @@
   },
   {
     "Identifier": "SaveState_Error",
-    "Text": "FIGYELEM: A mentés jelenleg nem lehetséges. Az Állásmentés hajtóműves manőverek vagy a küldetés kritikus fázisai alatt le van tiltva."
+    "Text": "FIGYELEM: A mentés jelenleg nem lehetséges. Az állásmentés hajtóműves manőverek vagy a küldetés kritikus fázisai alatt le van tiltva."
   },
   {
     "Identifier": "SaveState_ButtonSave",
