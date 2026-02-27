@@ -45,7 +45,7 @@
   },
   {
     "Identifier": "ViewSelector_CM_Computer",
-    "Text": "AGC"
+    "Text": "AGC/DSKY"
   },
   {
     "Identifier": "ViewSelector_CM_LEB",
@@ -841,15 +841,15 @@
   },
   {
     "Identifier": "MissionObjective_CM_TimeToSPSBurn_Value1Seconds",
-    "Text": "Várakozás az SPS hajtóműindítás T-{0} másodpercére. Hátralévő idő: {1} másodperc."
+    "Text": "Várakozás a T-{0} másodperc elérésére a Gyújtásig. Hátralévő idő: {1} másodperc."
   },
   {
     "Identifier": "MissionObjective_CM_Velocity_GreaterThan_Value1_FPS",
-    "Text": "Haladja meg a {0} ft./s. sebességet a PARANCSNOKI MODUL-ban."
+    "Text": "Haladja meg a {0} ft./s. sebességet a Parancsnoki modullal."
   },
   {
     "Identifier": "MissionObjective_CM_Velocity_LessThan_Value1_FPS",
-    "Text": "Érjen el {0} ft./s.-nál kisebb sebességet a PARANCSNOKI MODULBAN"
+    "Text": "Érjen el {0} ft./s.-nál kisebb sebességet a Parancsnoki modullal"
   },
   {
     "Identifier": "MissionObjective_TLI_AdjustPeriluneTo_Value1km_Value2ThresholdKm",
