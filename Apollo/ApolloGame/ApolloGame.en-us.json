@@ -1698,6 +1698,14 @@
   {
     "Identifier": "TEIPlanner_BurnParams_BurnWindowOffsetFuture",
     "Text": "+{0} Orbit(s)"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_CO2AbsElemAReplaceA",
+    "Text": "Replaced CO2 Absorber Element A"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_CO2AbsElemAReplaceB",
+    "Text": "Replaced CO2 Absorber Element B"
   }
   
 ]
