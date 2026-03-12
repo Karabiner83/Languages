@@ -457,7 +457,7 @@
   },
   {
     "Identifier": "GraphicsSettings_ProbeQualityInfo",
-    "Text": "OFF: All reflection probes will be turned off\nLOW: Critical probes will be updated over fourteen frames, Max resolution: 256\nMEDIUM: Critical probes will be updated over nine frames, Max resolution: 512\nHIGH: Critical probes will be updated within one frame.\nULTIMATE: All probes will be updated within one frame."
+    "Text": "OFF: All reflection probes will be turned off\nLOW: Critical probes will be updated over fourteen frames, Max resolution: 256\nMEDIUM: Critical probes will be updated over nine frames, Max resolution: 512\nHIGH: Critical probes will be updated within one frame.\nULTIMATE: Deprecated while in TESTING, same logic as HIGH. \nTESTING: All probes will be updated within one frame."
   },
   {
     "Identifier": "GraphicsSettings_PostProcessingTitle",
