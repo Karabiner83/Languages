@@ -1698,5 +1698,13 @@
   {
     "Identifier": "TEIPlanner_BurnParams_BurnWindowOffsetFuture",
     "Text": "+{0}Pálya"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_CO2AbsElemAReplaceA",
+    "Text": "Kicserélve a A jelű CO2 elnyelő betét"
+  },
+  {
+    "Identifier": "Debrief_KeyMoment_CO2AbsElemAReplaceB",
+    "Text": "Kicserélve a B jelű CO2 elnyelő betét"
   }
 ]

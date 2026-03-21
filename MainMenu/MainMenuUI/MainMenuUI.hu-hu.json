@@ -213,7 +213,7 @@
   },
   {
     "Identifier": "Profile_FlightTime",
-    "Text": "FÖLDI IRÁNYÍTÁS IDŐ"
+    "Text": "REPÜLÉSI IDŐ"
   },
   {
     "Identifier": "Profile_Online",
@@ -401,7 +401,7 @@
   },
   {
     "Identifier": "Settings_OutputLiveDesc",
-    "Text": "Ez valós időben exportálja a Fedélzeti Számítógép, az AGC és az LGC panel adatait az Exports mappa dedikált fájljaiba (a Reentry AppData mappájában). Ezt fel lehet használni az adatok külső eszközökön (például *IoT* (Dolgok Internete)) történő megjelenítésére."
+    "Text": "Ez valós időben exportálja a Fedélzeti Számítógép, az AGC és az LGC panel adatait az Exports mappa dedikált fájljaiba (a Reentry AppData mappájában). Ezt fel lehet használni az adatok külső eszközökön (például IoT) történő megjelenítésére."
   },
   {
     "Identifier": "Settings_ToggleOutputLive",
@@ -457,7 +457,7 @@
   },
   {
     "Identifier": "GraphicsSettings_ProbeQualityInfo",
-    "Text": "KI: Minden tükröződési felület kikapcsolásra kerül\nALACSONY: A kritikus felület frissítése tizennégy képkockás vétel alatt történik, MAX felbontás: 256\nKÖZEPES: A kritikus felület frissítése kilenc képkockás vétel alatt történik, MAX felbontás: 512\nMAGAS: A kritikus felület frissítése egy képkockán belül történik.\nULTRA: Minden tükröződési felület frissítése egy képkockán belül történik."
+    "Text": "KI: Minden tükröződési felület kikapcsolásra kerül\nALACSONY: A kritikus felület tizennégy képkocka vételével frissülnek, MAX felbontás: 256\nKÖZEPES: A kritikus felület kilenc képkocka vételével frissülnek, MAX felbontás: 512\nMAGAS: A kritikus felület egy képkockán belül frissülnek.\nULTRA: A TESZTELÉS alatt elavult, logikája a MAGAS beállításéval azonos.\nTESZTELÉS: Minden felület egy képkockán belül frissül."
   },
   {
     "Identifier": "GraphicsSettings_PostProcessingTitle",
@@ -605,7 +605,7 @@
   },
   {
     "Identifier": "RealismSettings_MercuryRandomFailuresTitle",
-    "Text": "véletlenszerű meghibásodások: Mercury"
+    "Text": "Véletlenszerű meghibásodások: Mercury"
   },
   {
     "Identifier": "RealismSettings_MercuryRandomFailuresDesc",
@@ -1221,7 +1221,7 @@
   },
   {
     "Identifier": "Profile_InsigniaPath",
-    "Text": "CUSTOM INSIGNIA GRAPHICS PATH (.png)"
+    "Text": "EGYEDI EBLÉMA GRAFIKAI ÚTVONALA (.png)"
   },
   {
     "Identifier": "Rank_CandidateSpaced",
@@ -1329,7 +1329,7 @@
   },
   {
     "Identifier": "GameTips_Tip16",
-    "Text": "Gyorsmentés: A Bemeneti leképezőben hozzárendelhet egy Gyorsmentés billentyűzet/joystick gombot."
+    "Text": "Gyorsmentés: A Bemeneti Vezérlők hozzárendelhet egy Gyorsmentés billentyűzet/joystick gombot."
   },
   {
     "Identifier": "LoadingScreen_Program",
@@ -1546,5 +1546,9 @@
   {
     "Identifier": "Settings_GeneralHeader",
     "Text": "ÁLTALÁNOS"
+  },
+  {
+    "Identifier": "Academy_CSM_Lesson19",
+    "Text": "19. KIKÉPZÉS - RENDSZERFELÜGYELET"
   }
 ]
