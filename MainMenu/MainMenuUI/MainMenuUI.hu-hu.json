@@ -653,7 +653,7 @@
   },
   {
     "Identifier": "RealismSettings_GyroDriftTitle",
-    "Text": "Giroszkóp sodródás"
+    "Text": "Giroszkóp Sodródás"
   },
   {
     "Identifier": "RealismSettings_GyroDriftDesc",
@@ -1085,11 +1085,11 @@
   },
   {
     "Identifier": "Settings_TTS",
-    "Text": "szövegfelolvasás"
+    "Text": "Szövegfelolvasás"
   },
   {
     "Identifier": "RealismSettings_DisableGLoad",
-    "Text": "G-terhelés letiltása"
+    "Text": "G-terhelés Letiltása"
   },
   {
     "Identifier": "RealismSettings_DisableGLoadDesc",
